@@ -18,6 +18,8 @@
     "@supabase/auth-helpers-sveltekit": "^0.8.7",
     "@supabase/supabase-js": "^2.0.0-rc.3",
     "axios": "^0.26.0",
+    "embla-carousel-autoplay": "8.0.0-rc07",
+    "embla-carousel-svelte": "8.0.0-rc07",
     "lodash-es": "^4.17.21",
     "nanoid": "^3.1.23",
     "promise-worker": "^2.0.1",
